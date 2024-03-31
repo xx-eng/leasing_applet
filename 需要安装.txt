@@ -1,0 +1,11 @@
+npm init -y最先安装
+
+npm install moment --save
+ npm install axios
+npm install md5
+npm install store
+
+npm i node-sass -D
+npm i sass-loader -D
+
+ npm install uview-ui

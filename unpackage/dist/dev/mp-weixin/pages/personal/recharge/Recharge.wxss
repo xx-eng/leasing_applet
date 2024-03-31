@@ -1,0 +1,41 @@
+
+.uni-form-item__title {
+	font-size: 16px;
+	line-height: 24px;
+	position: relative;
+	left: 12px;
+}
+.uni-input-wrapper {
+
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+
+	padding: 8px 13px;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	background-color: #FFFFFF;
+}
+.uni-input {
+	height: 28px;
+	line-height: 28px;
+	font-size: 15px;
+	padding: 0px;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	background-color: #FFFFFF;
+	border-bottom: 1px solid #339966;
+	/* color: #F8F8F8; */
+}
+.btn {
+	background-color: #339966;
+	color: white;
+	position: absolute;
+	left: 2%;
+}
+

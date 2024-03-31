@@ -1,0 +1,107 @@
+
+.login-container {
+	height: 100vh;
+	/* background: url("../../assets/images/login/background2.svg") no-repeat; */
+	background-size: cover;
+.login-main {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		box-shadow: 0 8px 19px 2px rgba(0, 0, 0, 0.16);
+		border-radius: 20px;
+		background: #FFFFFF;
+		width: 800px;
+		-webkit-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+.login-carousel {
+			height: 30px;
+._img {
+				border-radius: 18px 0 0 18px;
+				display: inline-block;
+				height: 100%;
+				width: 100%;
+				background-size: cover;
+}
+}
+.login-form-container {
+			margin-top: 30px;
+			padding: 0 50px;
+.title {
+				padding: 36px 0 20px 0;
+				font-size: 30px;
+				text-align: center;
+				color: #333333;
+}
+/deep/.ant-form-item {
+				margin-bottom: 14px;
+}
+.forget-pass,
+			.other-way {
+				font-size: 14px;
+}
+.login-btn,
+			.other-login {
+				margin-top: 5vh;
+}
+}
+}
+.foot {
+		position: absolute;
+		left: 50%;
+		bottom: 10px;
+		color: rgba(0, 0, 0, 0.45);
+		font-size: 14px;
+		-webkit-transform: translate(-50%);
+		transform: translate(-50%);
+.help {
+			margin: 0 auto 2vh;
+			width: 60%;
+.item {
+				color: rgba(0, 0, 0, 0.45);
+}
+:hover {
+				color: rgba(0, 0, 0, 0.65);
+}
+}
+._a {
+			color: #2d8cf0;
+			background: 0 0;
+			text-decoration: none;
+			outline: 0;
+			cursor: pointer;
+			-webkit-transition: color 0.2s ease;
+			transition: color 0.2s ease;
+			font-size: 14px;
+}
+}
+}
+.form{
+	width: 65%;
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translate(-50%);
+	        transform: translate(-50%);
+}
+.login-btn{
+	position: absolute;
+	left: 50%;
+	-webkit-transform: translate(-50%);
+	        transform: translate(-50%);
+	top: 400px;
+	background-color: #339966;
+	color: $u-tips-color;
+	border: none;
+	font-size: 30rpx;
+	padding: 12rpx 0;
+	width: 80%;
+	height: 50px;
+}
+.alternative {
+	position: absolute;
+	/* display: flex;
+	justify-content: space-between; */
+	margin-top: 350rpx;
+	right: 50px;
+	color: #18B566;
+}
+

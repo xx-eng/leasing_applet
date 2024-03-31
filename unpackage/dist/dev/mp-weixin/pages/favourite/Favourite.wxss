@@ -1,0 +1,35 @@
+
+.goods-box {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: start;
+	-webkit-justify-content: start;
+	        justify-content: start;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	position: relative;
+	left: 50%;
+	top: 50px;
+	-webkit-transform: translate(-50%);
+	        transform: translate(-50%);
+	width: 92%;
+	/* background-color: #F5F5F5; */
+}
+.goods-item {
+	box-sizing: border-box;
+	width: 48%;
+	border: 1px solid #e9e9e9;
+	padding: 10px 10px;
+	margin: 3px 3px;
+	background-color: white;
+}
+.show-pop {
+	width: 160px;
+	display: block;
+	position: relative;
+	left: 50%;
+	-webkit-transform: translate(-50%);
+	        transform: translate(-50%);
+}
+

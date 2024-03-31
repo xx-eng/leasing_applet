@@ -1,0 +1,52 @@
+
+.user-info {
+	background-color: rgb(248, 248, 248);
+}
+.uni-panel {
+	margin-bottom: 0px;
+	border: 1px solid #E9E9E9;
+}
+.uni-panel-h {
+
+
+
+
+
+	background-color: #FFFFFF;
+	-webkit-box-orient: horizontal !important;
+	-webkit-box-direction: normal !important;
+	-webkit-flex-direction: row !important;
+	        flex-direction: row !important;
+	/* justify-content: space-between !important; */
+	-webkit-box-align: center !important;
+	-webkit-align-items: center !important;
+	        align-items: center !important;
+	padding: 12px;
+}
+.uni-panel-text {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	color: #000000;
+	font-size: 14px;
+	font-weight: normal;
+}
+.uni-panel-icon {
+	margin-left: 15px;
+	color: #999999;
+	font-size: 14px;
+	font-weight: normal;
+	-webkit-transform: rotate(0deg);
+	        transform: rotate(0deg);
+	-webkit-transition-duration: 0s;
+	        transition-duration: 0s;
+	-webkit-transition-property: -webkit-transform;
+	transition-property: -webkit-transform;
+	transition-property: transform;
+	transition-property: transform, -webkit-transform;
+}
+.uni-icon {
+	font-family: uniicons;
+	font-weight: normal;
+}
+

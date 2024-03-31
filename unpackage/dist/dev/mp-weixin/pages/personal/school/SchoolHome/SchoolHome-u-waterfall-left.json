@@ -1,0 +1,13 @@
+{
+  "component": true,
+  "usingComponents": {
+    "SchoolHome-u-waterfall-left": "/pages/personal/school/SchoolHome/SchoolHome-u-waterfall-left",
+    "SchoolHome-u-waterfall-right": "/pages/personal/school/SchoolHome/SchoolHome-u-waterfall-right",
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-waterfall": "/node-modules/uview-ui/components/u-waterfall/u-waterfall",
+    "u-lazy-load": "/node-modules/uview-ui/components/u-lazy-load/u-lazy-load",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-loadmore": "/node-modules/uview-ui/components/u-loadmore/u-loadmore",
+    "school-tab-bar": "/pages/personal/school/components/schoolTabBar"
+  }
+}

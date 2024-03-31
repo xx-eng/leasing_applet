@@ -1,0 +1,60 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/category/index",
+    "pages/favourite/Favourite",
+    "pages/login/Login",
+    "pages/personal/Personal",
+    "pages/personal/Account/Account",
+    "pages/personal/Account/AccountUpdate",
+    "pages/personal/Account/Sex",
+    "pages/personal/order/Order",
+    "pages/personal/orderDetail/orderDetail",
+    "pages/personal/Pay/Pay",
+    "pages/personal/Continue/Continue",
+    "pages/personal/Terminal/Terminal",
+    "pages/personal/Buy/Buy",
+    "pages/personal/recharge/Recharge",
+    "pages/personal/Password/Password",
+    "pages/personal/address/Address",
+    "pages/personal/address/addAddress",
+    "pages/personal/Comment/Comment",
+    "pages/detail/Detail",
+    "pages/Rental/Rental",
+    "pages/personal/Pay/ContinuePay",
+    "pages/personal/school/SchoolHome/SchoolHome",
+    "pages/personal/school/order/Order",
+    "pages/personal/school/Add/Add",
+    "pages/personal/school/Goods/Goods",
+    "pages/personal/school/UpdateGoods/UpdateGoods",
+    "pages/personal/school/goodsDetail/goodsDetail",
+    "pages/personal/school/SchoolRent/SchoolRent",
+    "pages/personal/school/SchoolPay/SchoolPay",
+    "pages/Register/Register",
+    "pages/personal/NomalTerminal/NomalTerminal"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/category/index"
+      },
+      {
+        "pagePath": "pages/favourite/Favourite"
+      },
+      {
+        "pagePath": "pages/personal/Personal"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

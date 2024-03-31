@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon",
+    "u-cell-group": "/node-modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/node-modules/uview-ui/components/u-cell-item/u-cell-item",
+    "u-calendar": "/node-modules/uview-ui/components/u-calendar/u-calendar",
+    "u-select": "/node-modules/uview-ui/components/u-select/u-select",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}
